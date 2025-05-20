@@ -11,7 +11,7 @@
 ## pipeline
 ![Pipeline Image](https://github.com/ljppp117/Dual-Path-AI-Generated-Image-Detection/blob/main/pipeline.PNG)
 
-<img src="https://github.com/ljppp117/Dual-Path-AI-Generated-Image-Detection/blob/main/pipeline.PNG?raw=true" alt="Pipeline Image" width="500"/>
+[![Pipeline Image](pipeline.PNG)](https://github.com/ljppp117/Dual-Path-AI-Generated-Image-Detection/blob/main/pipeline.PNG)
 
 
 ## Requirements
