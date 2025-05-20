@@ -8,11 +8,8 @@
 <img src=" width=60%>
 </p>
 
-## pipeline
-![Pipeline Image](https://github.com/ljppp117/Dual-Path-AI-Generated-Image-Detection/blob/main/pipeline.PNG)
 
-[![Pipeline Image](pipeline.PNG)](https://github.com/ljppp117/Dual-Path-AI-Generated-Image-Detection/blob/main/pipeline.PNG)
-
+![Pipeline Image](pipeline.PNG)
 
 ## Requirements
 ```
