@@ -4,9 +4,6 @@
 
 ## Abstract
 > The rapid advancement of image generation models, such as Generative Adversarial Networks (GANs) and diffusion models, has led to AI-generated images that are often indistinguishable from authentic photographs. This development poses significant challenges in verifying the authenticity of visual content, necessitating robust detectors capable of identifying AI-generated images. While numerous detection techniques have been proposed, most suffer from limited generalization due to their reliance on either domain-specific artifacts or global semantic features alone. In this paper, we address these limitations by introducing a novel detection framework centered on extracting local artifact features from both texture-rich and texture-poor regions. Our approach is motivated by the observation that during the image synthesis process, regions with poor textures exhibit lower reconstruction losses, indicating varying generation difficulties across different areas. By strategically selecting patches with diverse texture complexities, we capture critical fine-grained artifacts that enhance the detector’s sensitivity to AI-specific patterns. To further improve detection performance, our framework integrates extracted global semantic features  using CLIP-ViT from the entire image, forming a dual-path architecture that combines both local and global information. Within this framework, an attention-based Feature Fusion Module is introduced to dynamically model the relationships between local patches and global semantics, enabling robust and generalizable classification. Extensive experiments conducted on two benchmark datasets—GenImage and UniversalFakeDetect—demonstrate that our method achieves state-of-the-art performance in ID accuracy, OOD accuracy, and average precision metrics, highlighting its strong cross-generator generalization ability.
-<p align="center">
-<img src=" width=60%>
-</p>
 
 ## Pipeline
 ![Pipeline Image](pipeline.PNG)
