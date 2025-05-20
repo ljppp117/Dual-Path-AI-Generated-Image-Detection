@@ -9,7 +9,7 @@
 </p>
 
 ## pipeline
-![Image Description](https://github.com/ljppp117/Dual-Path-AI-Generated-Image-Detection/blob/main/pipiline.PNG?raw=true)
+![Pipeline Image](https://github.com/ljppp117/Dual-Path-AI-Generated-Image-Detection/blob/main/pipeline.PNG?raw=true)
 
 
 
