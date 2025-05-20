@@ -9,7 +9,7 @@
 </p>
 
 ## Pipeline
-![Pipeline Image](pipeline.PNG)
+![Pipeline Image](/pipeline.PNG)
 
 ## Requirements
 ```
