@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ## Genimage Dataset and UFD Dataset
 The Genimage Dataset can be downloaded from [here](https://pan.baidu.com/share/init?surl=i0OFqYN5i6oFAxeK6bIwRQ). The code is ztf1. 
 
-Specifically, you can download the simplified version of the Genimage Dataset from  [here](), which only includes the SD1.4 for training and the other eight val datasets.
+Specifically, you can download the simplified version of the Genimage Dataset from  [here]( https://pan.baidu.com/s/1fEuqFQKSWgiC7DSOBRkV0A?pwd=zkky ), which only includes the SD1.4 for training and the other eight val datasets.
 
 The UFD Dataset can be downloaded from [here](https://github.com/WisconsinAIVision/UniversalFakeDetect). 
 
@@ -53,7 +53,7 @@ Before training, you should link the training real and fake images to the `/trai
 python train.py
 ```
 ## Evaluation
-We provide the pre-trained model in [here]().
+We provide the pre-trained model in [here](https://pan.baidu.com/s/1fEuqFQKSWgiC7DSOBRkV0A?pwd=zkky).
 Before evaluating, you should link the training real and fake images to the `/train` folder. You need to modify the correct paths for `test_dataset` in `test.py`.You can evaluate the model by running the following command:
 ```
 python test.py
